@@ -4,6 +4,8 @@ BarberShop a full-stack solution designed to streamline operations for barbersho
 
 2. Client Side: Enables clients to log in, book appointments at their preferred barbershops, and manage their schedules.
 
+Full code will be delievered upon request! 
+
 - # BarberShop - business side
 
 Demonstration of how a Business logins and adds a meeting to the calendar.
