@@ -10,28 +10,44 @@ Full code will be delievered upon request!
 
 Demonstration of how a Business logins and adds a meeting to the calendar.
 
-https://github.com/user-attachments/assets/11c461d0-58ca-41d5-9191-f237e3326966
+
+
+https://github.com/user-attachments/assets/fcdc626b-31c4-4ec2-a801-0a6b59080fe3
+
+
 
 Show the shops calendar and appointments
-![Screenshot 2025-01-19 151336](https://github.com/user-attachments/assets/2f257bf6-93a2-42a2-a01a-ae4b20fd7e77)
+![Show the shops calendar and appointments](https://github.com/user-attachments/assets/d1a92446-1198-428b-b801-2bbb126712f3)
+
 Show all the service your shop is offering and add a new service
-![Screenshot 2025-01-19 151325](https://github.com/user-attachments/assets/e58a0c77-b4dc-4619-9cf1-1cef07b7a07f)
+![Show all the service your shop is offering and add a new service](https://github.com/user-attachments/assets/550eb64b-ea18-4795-a878-ddba440415bc)
+
 Shows all the shops clients details
-![Screenshot 2025-01-19 151319](https://github.com/user-attachments/assets/aef0371b-bbf4-4e08-9ab4-77cd142b9983)
+![Shows all the shops clients details](https://github.com/user-attachments/assets/76eaf13e-a703-4e64-b6d9-12107fb71c0c)
+
 Edit your shop details
-![Screenshot 2025-01-19 151309](https://github.com/user-attachments/assets/ea5f8bce-5f0b-4f72-b4e9-d9777dbac526)
+![Edit your shop details](https://github.com/user-attachments/assets/ea2629da-c6e3-4f12-bda8-5198ee3fd9ef)
+
 Shows your shop schedule
-![Screenshot 2025-01-17 105928](https://github.com/user-attachments/assets/99f97b14-5092-4e78-9851-ce5ea82555e1)
+![Show your shop schedule](https://github.com/user-attachments/assets/79504f0a-b215-4664-ac1c-eeaf24355163)
+
 
 # BarberShop - client side
 
 Demonstration of how a Client logins and adds a meeting to the calendar.
 
-https://github.com/user-attachments/assets/4a64735e-6ecd-4fca-bd6f-66b5ac859976
+
+
+https://github.com/user-attachments/assets/51bf0689-b539-44c1-810b-d2681696a91b
+
+
 
 shows a calendar to book the user's schedule
-![Screenshot 2025-01-19 151112](https://github.com/user-attachments/assets/f3e30392-0f85-4f64-a713-030502333b96)
+![shows a calendar to book the user's schedule](https://github.com/user-attachments/assets/feeece08-722c-452a-932c-ba1feec3b707)
+
 edit the user's details
-![Screenshot 2025-01-19 151043](https://github.com/user-attachments/assets/2a2e0e1f-c095-4b81-8bc3-03d78561a1cb)
+![edit the user's details](https://github.com/user-attachments/assets/2c360f54-5ccd-45ba-9a9a-c7d73da642b7)
+
 shows the user's meeting.
-![Screenshot 2025-01-20 142725](https://github.com/user-attachments/assets/d3c2e4e0-fb95-40bb-930c-e57386b58c9f)
+![shows the user's meeting](https://github.com/user-attachments/assets/1d4ac220-9328-4d41-8692-61732445319d)
+
